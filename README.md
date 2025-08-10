@@ -1,2 +1,1 @@
-# MacosSystemTool
-C++
+# 开发他是因为不想买one switch 不然没有这个项目 因为他卖45诶
